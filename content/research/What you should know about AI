@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What You Should Know About AI</title>
+<style>
+  @page { size: Letter; margin: 0.5in; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 12.5pt;
+    line-height: 1.38;
+    color: #1a1a1a;
+    background: #fff;
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 0.5in;
+  }
+  h1 {
+    font-size: 24pt;
+    margin: 0 0 6pt;
+    padding-bottom: 6pt;
+    border-bottom: 3px solid #1a1a1a;
+  }
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    margin: 11pt 0 3pt;
+    color: #0b3d6b;
+  }
+  h2.danger { color: #9b1c1c; }
+  p { margin: 0 0 4pt; }
+  ul, ol { margin: 2pt 0 4pt; padding-left: 20pt; }
+  li { margin-bottom: 3pt; }
+  .danger-box {
+    border: 2px solid #9b1c1c;
+    background: #fdf3f3;
+    border-radius: 6px;
+    padding: 2pt 12pt 6pt;
+    margin: 10pt 0 4pt;
+  }
+  .danger-box h2 { margin-top: 8pt; }
+  .small { font-size: 11pt; }
+  @media print {
+    body { padding: 0; max-width: none; }
+    .danger-box { break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<h1>What You Should Know About AI</h1>
+
+<h2>What is AI?</h2>
+<p>AI (artificial intelligence) is computer software that has studied huge amounts of writing, photos and recordings, and learned to imitate them. Ask it a question and it writes an answer; ask for a picture and it draws one; give it a few seconds of someone's voice and it can copy it.</p>
+<p>It does not truly understand anything or know what is true. It produces what <em>sounds</em> right, which is why it can be confident and wrong.</p>
+
+<h2>How people are starting to use it</h2>
+<ul>
+  <li>Asking chatbots (ChatGPT, Claude, Gemini) questions, the way you once used a search engine</li>
+  <li>Drafting emails, cards and speeches, or explaining a confusing medical or legal letter</li>
+  <li>Translating languages, summarizing long documents, and making pictures or music for fun</li>
+</ul>
+<p>Most of this is harmless and genuinely useful. The trouble starts with what others can do with the same tools.</p>
+
+<h2>Where you are most likely to meet it</h2>
+<ul>
+  <li><strong>Facebook, Instagram and YouTube:</strong> touching photos, animal videos and "true stories" that never happened</li>
+  <li><strong>Messages from friends and family:</strong> forwarded videos, voice notes and links they did not make and may not have checked</li>
+  <li><strong>Phone calls, news-style websites and ads</strong> with invented voices, articles, experts and endorsements</li>
+</ul>
+
+<div class="danger-box">
+  <h2 class="danger">The real danger: you can no longer fully trust your eyes and ears</h2>
+  <p>AI makes convincing fakes cheap and fast. The friend who sends you something may be completely sincere, but the person who made it, or the tool behind it, may not be. Bad actors hide behind cute, friendly-looking content.</p>
+  <ul>
+    <li><strong>Fake proof and familiar-voice scams:</strong> realistic photos, videos and voices of real people, including a "grandchild" or "bank" begging for money right now. A few seconds of audio from a social media video is enough to copy a voice.</li>
+    <li><strong>Friendly bait:</strong> quizzes, "see yourself older" apps and sweet videos can lead to fake login pages, stolen passwords or harmful software, often paired with invented news, "doctor" endorsements and investment tips.</li>
+    <li><strong>Confident mistakes:</strong> chatbots also make up facts, sources and medical or legal advice, and when you pass something along, your name vouches for it.</li>
+  </ul>
+  <p class="small">Two smaller concerns: AI uses large amounts of electricity and water, and what you type into AI tools may be stored, so never enter passwords, bank details or private health information.</p>
+</div>
+
+<h2>Simple habits that protect you</h2>
+<ol>
+  <li><strong>Pause</strong> when something feels urgent, frightening or too good to be true. Scammers rely on speed.</li>
+  <li><strong>Call back</strong> on a number you already have before sending money or information, even if the voice sounds right. Agree on a family code word.</li>
+  <li><strong>Never share</strong> passwords, bank numbers or one-time codes, and <strong>ask someone in the family</strong> before you click or install. Asking is smart, not embarrassing.</li>
+</ol>
+
+</body>
+</html>
