@@ -1,0 +1,14 @@
+{
+  "title": "My Claude Gallery",
+  "subtitle": "Projects I want to do, and the pages that belong to each",
+  "projects": {
+    "design": {"title": "Design", "emoji": "🎨", "color": "#ec4899", "order": 1, "status": "active",
+               "description": "Mockups, landing pages and visual experiments."},
+    "research": {"title": "Research", "emoji": "🔬", "color": "#14b8a6", "order": 2, "status": "planned",
+                 "description": "Reports, explainers and analysis."},
+    "dashboards": {"title": "Dashboards", "emoji": "📊", "color": "#6366f1", "order": 3, "status": "active",
+                   "description": "Charts, metrics and data views."},
+    "side-project": {"title": "Side Project", "emoji": "💡", "color": "#f59e0b", "order": 4, "status": "idea",
+                     "description": "An idea waiting for its first page."}
+  }
+}
